@@ -10,10 +10,10 @@ main:
     url: /experience/    
     
   - title: "Articles"
-    url: /articles/
+    url: /publications/
         
   - title: "Projects"
-    url: /publications/
+    url: /projects/
     
   - title: "Honors"
     url: /honors/
