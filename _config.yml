@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NWPU / Site Title"
+title                    : "NWPU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "The Website for NWPU"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
