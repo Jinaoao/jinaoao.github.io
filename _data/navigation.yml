@@ -1,22 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Personal Profile"
+    url: /profile/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research Introduction"
+    url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Personal Experience"
+    url: /experience/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Articles"
+    url: /articles/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Projects"
+    url: /projects/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Honors"
+    url: /honors/
     
-  - title: "Guide"
-    url: /markdown/
