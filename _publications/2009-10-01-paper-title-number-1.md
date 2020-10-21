@@ -2,7 +2,7 @@
 title: "Paper One"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020-10-01
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'https://arxiv.org/pdf/2008.09837.pdf'
