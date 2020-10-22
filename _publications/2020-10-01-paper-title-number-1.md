@@ -1,12 +1,12 @@
 ---
-title: "Publications"
+title: "Paper"
 collection: publications
 permalink: /publication/2020-10-01-paper-title-number-1
 excerpt: ''
 date: 2020-10-01
 venue: 'IEEE Transactions on Image Processing'
-paperurl: ''
-citation: ''
+paperurl: ' https://arxiv.org/pdf/2008.09837.pdf'
+#citation: ''
 ---
 
 2020
