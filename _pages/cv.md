@@ -9,4 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://jinaoao.github.io/files/paper1.pdf)
+Curriculum Vitae
+
+[English CV[PDF]](https://jinaoao.github.io/files/paper1.pdf)
+[Chinese CV[PDF]](https://jinaoao.github.io/files/paper2.pdf)
+
+Contact
+NWPU
