@@ -1,20 +1,18 @@
 # main links links
 main:
-  - title: "Personal Profile"
-    url: /profile/
-
-  - title: "Research Introduction"
-    url: /research/    
-
-  - title: "Personal Experience"
-    url: /experience/    
-    
-  - title: "Articles"
+  - title: "Publications"
     url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Projects"
-    url: /projects/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  - title: "Honors"
-    url: /honors/
+  - title: "CV"
+    url: /cv/
+    
     

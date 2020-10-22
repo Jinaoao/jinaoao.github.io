@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "杨乐"
 title_separator          : "-"
-name                     : &name "自动化"
+name                     : &name "杨乐"
 description              : &description "The Website for NWPU"
 url                      : https://jinaoao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
