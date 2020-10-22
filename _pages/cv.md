@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae
+# Curriculum Vitae
 
-[English CV[PDF]](https://jinaoao.github.io/files/paper1.pdf)
-[Chinese CV[PDF]](https://jinaoao.github.io/files/paper2.pdf)
+* [English CV[PDF]](https://jinaoao.github.io/files/paper1.pdf) 
+* [Chinese CV[PDF]](https://jinaoao.github.io/files/paper2.pdf)
 
-Contact
+# Contact
 NWPU
